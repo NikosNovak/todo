@@ -1,0 +1,193 @@
+2018-08-18 13:38:13,656 [1] INFO OwinSelfHosted.Program - Get all todos
+2018-08-18 13:51:28,020 [1] INFO OwinSelfHosted.Program - Getting data of all todos
+2018-08-18 13:51:28,032 [1] INFO OwinSelfHosted.Program - The data of all todos has gotten
+2018-08-18 14:14:05,393 [1] INFO OwinSelfHosted.Program - Getting data of all todos
+2018-08-18 14:14:05,404 [1] INFO OwinSelfHosted.Program - The data of all todos has gotten
+2018-08-18 14:16:52,818 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 14:16:52,830 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 14:17:51,591 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 14:17:51,603 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 14:33:54,381 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 14:33:54,392 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 14:39:46,081 [1] WARN OwinSelfHosted.Program - Getting all todos data
+2018-08-18 14:39:46,092 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 16:35:31,868 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 16:35:31,880 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 16:38:25,089 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 16:38:25,101 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 17:12:12,338 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 17:12:12,350 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 17:19:39,875 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 17:19:39,886 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 17:38:58,955 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 17:38:58,966 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 17:50:40,419 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 17:50:40,435 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 18:15:07,128 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 18:15:07,142 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 18:31:08,995 [1] INFO OwinSelfHosted.Program - Getting all todos data
+2018-08-18 18:31:09,006 [1] INFO OwinSelfHosted.Program - All todos has gotten successfully
+2018-08-18 18:48:56,401 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-18 18:48:56,413 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 10:05:06,675 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 10:05:07,176 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 11:31:35,878 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 11:31:37,287 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 11:32:30,555 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 11:32:30,567 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 14:04:42,376 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 14:04:42,387 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 16:44:02,756 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 16:44:02,767 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 16:44:24,463 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 16:44:24,473 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 16:44:55,029 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 16:44:55,043 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 16:47:19,463 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 16:47:19,474 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 16:50:41,706 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 16:50:41,721 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 17:06:31,015 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 17:06:31,028 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 17:09:59,665 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 17:09:59,678 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 17:10:36,305 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 17:10:36,318 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 17:16:35,148 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 17:16:35,161 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 18:04:33,402 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 18:04:33,417 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 18:39:18,583 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 18:39:18,596 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 19:38:02,100 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 19:38:02,112 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 19:43:05,124 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 19:43:05,137 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 20:17:18,430 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 20:17:18,447 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 20:20:38,436 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 20:20:38,447 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 20:21:35,702 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 20:21:35,713 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 20:22:21,639 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 20:22:21,651 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 21:11:40,752 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 21:11:40,767 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:15:35,828 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:15:35,839 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:18:06,954 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:18:06,965 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:37:48,480 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:37:48,491 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:39:39,383 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:39:39,394 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:41:15,154 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:41:15,164 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:44:06,830 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:44:06,841 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:48:33,839 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:48:33,850 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:49:16,135 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:49:16,145 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:52:14,398 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:52:14,409 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:53:41,686 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:53:41,697 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:53:46,562 [6] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 22:55:34,244 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:55:34,255 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:56:29,448 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:56:29,462 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 22:56:33,953 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 22:56:34,037 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 22:59:33,553 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 22:59:33,566 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:02:52,079 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:02:52,093 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:03:01,108 [7] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:03:01,188 [7] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:03:10,340 [5] INFO OwinSelfHosted.DataAccess - Get by Id successfully 1, Water the plants, False
+2018-08-19 23:14:43,933 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:14:43,948 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:19:32,736 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:19:32,750 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:19:52,744 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 4
+2018-08-19 23:19:53,191 [5] ERROR OwinSelfHosted.DataAccess - Problem with deleting item by Id = 4
+System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '*'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at OwinSelfHosted.DataAccess.Delete(Int32 Id) in C:\Users\Nikos\source\repos\MyKnowledges\OwinSelfHosted\DataAccess.cs:line 112
+ClientConnectionId:db5f2d4d-1e25-4ddf-8873-2f7ea3b3ee17
+Error Number:102,State:1,Class:15
+2018-08-19 23:20:39,815 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:20:39,830 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:20:44,712 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 4
+2018-08-19 23:21:40,743 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:21:40,756 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:21:43,945 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 4
+2018-08-19 23:21:44,320 [5] INFO OwinSelfHosted.DataAccess - Nothing to delete
+2018-08-19 23:21:53,366 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 1
+2018-08-19 23:21:53,373 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 1
+2018-08-19 23:24:28,928 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:24:28,941 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:24:36,725 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 1
+2018-08-19 23:24:37,172 [5] INFO OwinSelfHosted.DataAccess - Deleted Todo item by Id = 1 successfully
+2018-08-19 23:24:42,700 [6] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 1
+2018-08-19 23:24:42,705 [6] INFO OwinSelfHosted.DataAccess - Nothing to delete
+2018-08-19 23:26:02,346 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:26:02,359 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:26:05,288 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:26:05,371 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:29:17,831 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:29:17,843 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:29:32,659 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:29:32,738 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:29:43,341 [5] INFO OwinSelfHosted.DataAccess - Get by Id successfully [1, Water the plants, False]
+2018-08-19 23:29:51,186 [5] INFO OwinSelfHosted.DataAccess - Get by Id successfully [2, Buy some milk, False]
+2018-08-19 23:29:57,170 [5] INFO OwinSelfHosted.DataAccess - Get by Id successfully [3, Do something, False]
+2018-08-19 23:30:15,853 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 4
+2018-08-19 23:30:15,857 [5] INFO OwinSelfHosted.DataAccess - Nothing to delete
+2018-08-19 23:30:24,062 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 3
+2018-08-19 23:30:24,067 [5] INFO OwinSelfHosted.DataAccess - Deleted Todo item by Id = 3 successfully
+2018-08-19 23:30:34,257 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:30:34,264 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:30:57,783 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:30:57,786 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:31:55,163 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:31:55,176 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:31:58,093 [5] INFO OwinSelfHosted.DataAccess - Get by Id successfully [2, Buy some milk, False]
+2018-08-19 23:32:03,658 [5] INFO OwinSelfHosted.DataAccess - Get by Id successfully [3, Do something, False]
+2018-08-19 23:32:12,882 [5] INFO OwinSelfHosted.DataAccess - Get by Id successfully [1, Water the plants, False]
+2018-08-19 23:32:21,514 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:32:21,517 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:32:34,762 [5] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 1
+2018-08-19 23:32:34,767 [5] INFO OwinSelfHosted.DataAccess - Deleted Todo item by Id = 1 successfully
+2018-08-19 23:32:42,045 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:32:42,048 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:32:55,951 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:32:55,965 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:32:59,106 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:32:59,185 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:33:08,145 [6] INFO OwinSelfHosted.DataAccess - Deleting Todo item by Id = 1
+2018-08-19 23:33:08,191 [6] INFO OwinSelfHosted.DataAccess - Deleted Todo item by Id = 1 successfully
+2018-08-19 23:33:30,192 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:33:30,204 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:33:33,598 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:33:33,679 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:46:01,253 [1] INFO OwinSelfHosted.Program - Web Server is running.
+2018-08-19 23:46:01,267 [1] INFO OwinSelfHosted.Program - Press any key to quit
+2018-08-19 23:46:12,726 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:46:12,814 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:47:51,990 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:47:51,992 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:47:58,211 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:47:58,213 [5] INFO OwinSelfHosted.DataAccess - Connection closed
+2018-08-19 23:48:24,653 [5] INFO OwinSelfHosted.DataAccess - Oppening connection
+2018-08-19 23:48:24,654 [5] INFO OwinSelfHosted.DataAccess - Connection closed

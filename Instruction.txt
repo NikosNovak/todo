@@ -1,0 +1,14 @@
+﻿https://habr.com/post/202018/
+
+1. Install-Package Microsoft.AspNet.WebApi.OwinSelfHost
+2. Install-Package log4net OwinSelfHosted
+
+
+1. Create Db "Todo", add table "Task"
+2. Add to references System.Configuration.dll
+3. Get connectionString: var connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
+
+
+KeyWords:
+OWIN: Open Web Interface for .NET  — это спецификация определяющая интерфейс и описывающая взаимодействие между всеми компонентами.
+self-hosting: http://blog.thedigitalgroup.com/self-hosting-web-api-2-using-owin

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OwinSelfHosted</name>
+    </assembly>
+    <members>
+        <member name="M:OwinSelfHosted.DataAccess.GetAll">
+            <summary>
+            Return all records from database Todo table
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OwinSelfHosted.DataAccess.Get(System.Int32)">
+            <summary>
+            Get Todo item by Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OwinSelfHosted.DataAccess.Delete(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:OwinSelfHosted.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:OwinSelfHosted.Startup.Configuration(Owin.IAppBuilder)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+        </member>
+        <member name="T:OwinSelfHosted.Controller.TodosController">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
